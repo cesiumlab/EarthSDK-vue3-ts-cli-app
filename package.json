@@ -9,6 +9,10 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
+    "axios": "^0.21.0",
+    "cesium": "^1.66.0",
+    "copy-webpack-plugin": "^5.0.4",
+    "earthsdk": "^1.5.1",
     "vue-class-component": "^8.0.0-0"
   },
   "devDependencies": {
